@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\kileypat\Documents\open_gamma_nano\14_pin_pmt_Rev2\14_pin_pmt_Rev2.kicad_sch</source>
+    <date>8/3/2023 5:27:27 PM</date>
+    <tool>Eeschema 7.0.2-27-g7a50654f3b</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>14_pin_pmt_Rev2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>.01 uF 1Kv</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">1206B103M102CT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer_Part_Number" value="1206B103M102CT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13010c0d-f8c2-45b7-b62d-1867ed604ffe</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>.01 uF 1Kv</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">1206B103M102CT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer_Part_Number" value="1206B103M102CT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92d30db9-5b0e-4617-af5f-67ba8faca677</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>.001 uF 3Kv</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">C1812C102KHRACTU</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer_Part_Number" value="C1812C102KHRACTU"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>551fcd0d-e0c7-4d8c-b9eb-1cdb3613ab82</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.022 uF 500v</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">CL31B223KHHNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer_Part_Number" value="CL31B223KHHNNNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42fc2599-65f1-4a8f-882c-26176059be53</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>.033 uF 500v</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">CL31B333KHHSFNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer_Part_Number" value="CL31B333KHHSFNE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b1d6c3e-9af6-46fd-b33e-6b16cd9e96fb</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MNT1</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc80691b-4657-41ea-a351-e6652054e9b8</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MNT2</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afc9d8b7-6ea0-4799-92f5-e9ff65d6f121</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MNT3</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e92f89e-b7d6-4a4a-b10a-3e98e88bcbab</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MNT4</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d3f7e14-071c-4a5e-98c5-dc10e2ac80d0</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>Socket_1</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe4de891-3669-48f9-903b-f7106b1d45b4</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>Socket_2</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>269c9b05-ca91-49c9-9236-b52d87ac55a7</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Dynode 1</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>101c6218-0a3e-4d38-bb0e-9f8eee3a5b8a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Dynode 2</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2999b08b-58ad-4e6b-9843-056d4bc2bf5e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Dynode 3</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f06053f-c73a-4709-b9c2-abaabb0b0855</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Dynode 4</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0cf594a-3b43-4140-be68-a3d87892057c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Dynode 5</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad232aed-8c77-4b2a-87f1-6ef44df2ecdb</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Dynode 6</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dab20903-7ec4-499f-8490-4447f63e24d5</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Dynode 7</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094a4d7b-aaca-439c-832a-871945cccec6</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Dynode 8</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>284f23e8-4e61-4441-81b3-020a5a9f18d1</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Dynode 9</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>382ec0b7-a265-4c18-96fc-97c764442893</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Dynode 10</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98bb515a-82f3-4c0c-8c91-ebe247b9255d</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Anode</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c83d111-5c8e-4e5c-b82e-6974ce0756a6</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Pin1</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>410511a2-54b2-4a23-a19c-a46241ec2d54</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Focus</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21135b65-6430-4658-8f57-d3c523b0b3e5</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Cathode</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6313e18a-7375-4a23-b93d-c5b53a97f13d</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Signal</value>
+      <footprint>SamacSys_Parts2:SMACONNECTOR_LPRS</footprint>
+      <datasheet>https://lprs.co.uk/assets/files/downloads/smaconnector-datasheet-v1.3.pdf</datasheet>
+      <fields>
+        <field name="Height">8.3</field>
+        <field name="Manufacturer_Name">LPRS</field>
+        <field name="Manufacturer_Part_Number">SMA CONNECTOR</field>
+        <field name="Mouser Part Number">471-SMACONNECTOR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/LPRS/SMA-CONNECTOR?qs=j%252B1pi9TdxUYkOiITvzJM8A%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SMA_CONNECTOR" description="LPRS - SMA CONNECTOR - CONNECTOR, SMA, ANTENNA"/>
+      <property name="Height" value="8.3"/>
+      <property name="Mouser Part Number" value="471-SMACONNECTOR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/LPRS/SMA-CONNECTOR?qs=j%252B1pi9TdxUYkOiITvzJM8A%3D%3D"/>
+      <property name="Manufacturer_Name" value="LPRS"/>
+      <property name="Manufacturer_Part_Number" value="SMA CONNECTOR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="LPRS - SMA CONNECTOR - CONNECTOR, SMA, ANTENNA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db0c6e93-cbe9-4fd0-b274-e067029ffc4f</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>GND</value>
+      <footprint>Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4594893-5ea9-414f-9d3a-0c953fd45931</tstamps>
+    </comp>
+    <comp ref="POT1">
+      <value>2.0M</value>
+      <footprint>3006P-1-202:TRIM_3006P-1-202</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">3006P-1-205LF</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="3006P-1-205LF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdff2945-0133-4a38-9480-46a01501b4bc</tstamps>
+    </comp>
+    <comp ref="POT2">
+      <value>2.0M</value>
+      <footprint>3006P-1-202:TRIM_3006P-1-202</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">3006P-1-205LF</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="3006P-1-205LF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d0aab72-53b6-4d23-af27-e8132c5ff674</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dda21e34-e5ed-4c98-b06a-ab51c5c57081</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa1a8cb0-f05b-4749-ab03-8be1236cc142</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a0c0d07-a18c-47b3-94fc-a511bff1f18b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82906c9c-63e9-42ae-baac-4ae0b147f9e8</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>769bc9e2-daba-4485-9af3-6327a4cba011</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5675f43-a74a-4023-a583-dc622198af13</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>046c137e-5de2-4a28-b125-53c6bb914898</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4b42fb6-76c3-4c5f-8063-2cd8de6794d1</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ef3c49a-78b9-4509-bd34-8dd00f2b3f6a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>510K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">ERJ-P06F5103V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-P06F5103V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ed69e4e-b6a6-4543-b21b-20a252d63e88</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2.2M</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">CHV2512-FX-2204ELF</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="CHV2512-FX-2204ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f37ba58a-6cc5-4e50-ac77-15948323902c</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2.2M</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="Manufacturer_Part_Number">CHV2512-FX-2204ELF</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Manufacturer_Part_Number" value="CHV2512-FX-2204ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="14_pin_pmt_Rev2.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04d27207-212f-4ba1-a5ad-adb5dccbd743</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_US">
+      <description>Potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SMA_CONNECTOR">
+      <description>LPRS - SMA CONNECTOR - CONNECTOR, SMA, ANTENNA</description>
+      <docs>https://lprs.co.uk/assets/files/downloads/smaconnector-datasheet-v1.3.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA_CONNECTOR</field>
+        <field name="Footprint">SMACONNECTOR</field>
+        <field name="Datasheet">https://lprs.co.uk/assets/files/downloads/smaconnector-datasheet-v1.3.pdf</field>
+        <field name="Height">8.3</field>
+        <field name="Mouser Part Number">471-SMACONNECTOR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/LPRS/SMA-CONNECTOR?qs=j%252B1pi9TdxUYkOiITvzJM8A%3D%3D</field>
+        <field name="Manufacturer_Name">LPRS</field>
+        <field name="Manufacturer_Part_Number">SMA CONNECTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/kileypat/Documents/KiCad/7.0/Mouser_LL/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J15" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="POT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="POT2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J1-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="POT1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J3-Pin_1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J4-Pin_1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J5-Pin_1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J6-Pin_1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J7-Pin_1)">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(J8-Pin_1)">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J9-Pin_1)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J10-Pin_1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J11-Pin_1)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J12-Pin_1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="POT2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="POT2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J13-Pin_1)">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="POT1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(H2-Pad1)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(H3-Pad1)">
+      <node ref="H3" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(H4-Pad1)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(H5-Pad1)">
+      <node ref="H5" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(H6-Pad1)">
+      <node ref="H6" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
